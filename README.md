@@ -6,5 +6,5 @@ To create a virtual environment with these dependencies run to following command
 $ python -m venv venv
 $ source venv/bin/activate
 	(To install dependencies):
-$pip install -r requirements.txt
+$ python -m pip install -r requirements.txt
 
